@@ -1,0 +1,2 @@
+This is a personal project aiming to generate a list of food ingredients base on user metric (loss fat, build muscle, etc). 
+Then use a Transformer model to generate recipe recommendations.
