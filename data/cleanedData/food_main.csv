@@ -1,0 +1,266 @@
+description,foodCategory,fdcId
+"Hummus, commercial",Legumes and Legume Products,321358
+"Tomatoes, grape, raw",Vegetables and Vegetable Products,321360
+"Beans, snap, green, canned, regular pack, drained solids",Vegetables and Vegetable Products,321611
+"Frankfurter, beef, unheated",Sausages and Luncheon Meats,323121
+"Nuts, almonds, dry roasted, with salt added",Nut and Seed Products,323294
+"Kale, raw",Vegetables and Vegetable Products,323505
+"Egg, whole, raw, frozen, pasteurized",Dairy and Egg Products,323604
+"Egg, white, raw, frozen, pasteurized",Dairy and Egg Products,323697
+"Egg, white, dried",Dairy and Egg Products,323793
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven",Vegetables and Vegetable Products,324317
+"Pickles, cucumber, dill or kosher dill",Vegetables and Vegetable Products,324653
+"Cheese, parmesan, grated",Dairy and Egg Products,325036
+"Cheese, pasteurized process, American, vitamin D fortified",Dairy and Egg Products,325198
+"Grapefruit juice, white, canned or bottled, unsweetened",Fruits and Fruit Juices,325287
+"Peaches, yellow, raw",Fruits and Fruit Juices,325430
+"Seeds, sunflower seed kernels, dry roasted, with salt added",Nut and Seed Products,325524
+"Bread, white, commercially prepared",Baked Products,325871
+"Kale, frozen, cooked, boiled, drained, without salt",Vegetables and Vegetable Products,326196
+"Mustard, prepared, yellow",Spices and Herbs,326698
+"Kiwifruit, green, raw",Fruits and Fruit Juices,327046
+"Nectarines, raw",Fruits and Fruit Juices,327357
+"Cheese, cheddar",Dairy and Egg Products,328637
+"Cheese, cottage, lowfat, 2% milkfat",Dairy and Egg Products,328841
+"Cheese, mozzarella, low moisture, part-skim",Dairy and Egg Products,329370
+"Egg, whole, dried",Dairy and Egg Products,329490
+"Egg, yolk, raw, frozen, pasteurized",Dairy and Egg Products,329596
+"Egg, yolk, dried",Dairy and Egg Products,329716
+"Yogurt, Greek, plain, nonfat",Dairy and Egg Products,330137
+"Yogurt, Greek, strawberry, nonfat",Dairy and Egg Products,330415
+"Oil, coconut",Fats and Oils,330458
+"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",Poultry Products,331897
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised",Poultry Products,331960
+"Sauce, pasta, spaghetti/marinara, ready-to-serve","Soups, Sauces, and Gravies",332282
+"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",Sausages and Luncheon Meats,332397
+"Olives, green, Manzanilla, stuffed with pimiento",Fruits and Fruit Juices,332791
+"Cookies, oatmeal, soft, with raisins",Baked Products,333008
+"Tomatoes, canned, red, ripe, diced",Vegetables and Vegetable Products,333281
+"Fish, haddock, raw",Finfish and Shellfish Products,333374
+"Fish, pollock, raw",Finfish and Shellfish Products,333476
+"Fish, tuna, light, canned in water, drained solids",Finfish and Shellfish Products,334194
+"Restaurant, Chinese, fried rice, without meat",Restaurant Foods,334536
+"Restaurant, Latino, tamale, pork",Restaurant Foods,334628
+"Restaurant, Latino, pupusas con frijoles (pupusas, bean)",Restaurant Foods,334720
+"Bread, whole-wheat, commercially prepared",Baked Products,335240
+"Beef, loin, tenderloin roast, separable lean only, boneless, trimmed to 0"" fat, select, cooked, roasted",Beef Products,746758
+"Beef, loin, top loin steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, choice, raw",Beef Products,746759
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,746760
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat, select, raw",Beef Products,746761
+"Beef, short loin, porterhouse steak, separable lean only, trimmed to 1/8"" fat, select, raw",Beef Products,746762
+"Beef, short loin, t-bone steak, bone-in, separable lean only, trimmed to 1/8"" fat, choice, cooked, grilled",Beef Products,746763
+"Carrots, frozen, unprepared",Vegetables and Vegetable Products,746764
+"Cheese, dry white, queso seco",Dairy and Egg Products,746765
+"Cheese, ricotta, whole milk",Dairy and Egg Products,746766
+"Cheese, swiss",Dairy and Egg Products,746767
+"Figs, dried, uncooked",Fruits and Fruit Juices,746768
+"Lettuce, cos or romaine, raw",Vegetables and Vegetable Products,746769
+"Melons, cantaloupe, raw",Fruits and Fruit Juices,746770
+"Oranges, raw, navels",Fruits and Fruit Juices,746771
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,746772
+"Pears, raw, bartlett",Fruits and Fruit Juices,746773
+"Restaurant, Chinese, sweet and sour pork",Restaurant Foods,746774
+"Salt, table, iodized",Spices and Herbs,746775
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",Dairy and Egg Products,746776
+"Sauce, salsa, ready-to-serve","Soups, Sauces, and Gravies",746777
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",Dairy and Egg Products,746778
+"Sausage, breakfast sausage, beef, pre-cooked, unprepared",Sausages and Luncheon Meats,746779
+"Sausage, Italian, pork, mild, cooked, pan-fried",Sausages and Luncheon Meats,746780
+"Sausage, pork, chorizo, link or ground, cooked, pan-fried",Sausages and Luncheon Meats,746781
+"Milk, whole, 3.25% milkfat, with added vitamin D",Dairy and Egg Products,746782
+"Sausage, turkey, breakfast links, mild, raw",Sausages and Luncheon Meats,746783
+"Sugars, granulated",Sweets,746784
+"Turkey, ground, 93% lean, 7% fat, pan-broiled crumbles",Poultry Products,746785
+"Ham, sliced, restaurant",Pork Products,746952
+"Cheese, American, restaurant",Dairy and Egg Products,747429
+"Beans, Dry, Medium Red (0% moisture)",Legumes and Legume Products,747430
+"Beans, Dry, Red (0% moisture)",Legumes and Legume Products,747431
+"Beans, Dry, Flor de Mayo (0% moisture)",Legumes and Legume Products,747432
+"Beans, Dry, Brown (0% moisture)",Legumes and Legume Products,747433
+"Beans, Dry, Tan (0% moisture)",Legumes and Legume Products,747434
+"Beans, Dry, Light Tan (0% moisture)",Legumes and Legume Products,747435
+"Beans, Dry, Carioca (0% moisture)",Legumes and Legume Products,747436
+"Beans, Dry, Cranberry (0% moisture)",Legumes and Legume Products,747437
+"Beans, Dry, Light Red Kidney (0% moisture)",Legumes and Legume Products,747438
+"Beans, Dry, Pink (0% moisture)",Legumes and Legume Products,747439
+"Beans, Dry, Dark Red Kidney (0% moisture)",Legumes and Legume Products,747440
+"Beans, Dry, Navy (0% moisture)",Legumes and Legume Products,747441
+"Beans, Dry, Small White (0% moisture)",Legumes and Legume Products,747442
+"Beans, Dry, Small Red (0% moisture)",Legumes and Legume Products,747443
+"Beans, Dry, Black (0% moisture)",Legumes and Legume Products,747444
+"Beans, Dry, Pinto (0% moisture)",Legumes and Legume Products,747445
+"Beans, Dry, Great Northern (0% moisture)",Legumes and Legume Products,747446
+"Broccoli, raw",Vegetables and Vegetable Products,747447
+"Ketchup, restaurant",Vegetables and Vegetable Products,747693
+"Eggs, Grade A, Large, egg white",Dairy and Egg Products,747997
+"Eggs, Grade A, Large, egg yolk",Dairy and Egg Products,748236
+"Oil, canola",Fats and Oils,748278
+"Oil, corn",Fats and Oils,748323
+"Oil, soybean",Fats and Oils,748366
+"Oil, olive, extra virgin",Fats and Oils,748608
+"Eggs, Grade A, Large, egg whole",Dairy and Egg Products,748967
+"Pork, cured, bacon, cooked, restaurant",Pork Products,749420
+"Butter, stick, unsalted",Dairy and Egg Products,789828
+"Flour, wheat, all-purpose, enriched, bleached",Cereal Grains and Pasta,789890
+"Flour, wheat, all-purpose, enriched, unbleached",Cereal Grains and Pasta,789951
+"Flour, wheat, all-purpose, unenriched, unbleached",Cereal Grains and Pasta,790018
+"Flour, whole wheat, unenriched",Cereal Grains and Pasta,790085
+"Flour, bread, white, enriched, unbleached",Cereal Grains and Pasta,790146
+"Flour, rice, white, unenriched",Cereal Grains and Pasta,790214
+"Flour, corn, yellow, fine meal, enriched",Cereal Grains and Pasta,790276
+"Butter, stick, salted",Dairy and Egg Products,790508
+"Onions, red, raw",Vegetables and Vegetable Products,790577
+"Onions, yellow, raw",Vegetables and Vegetable Products,790646
+"Garlic, raw",Vegetables and Vegetable Products,1104647
+"Flour, soy, defatted",Legumes and Legume Products,1104705
+"Flour, soy, full-fat",Legumes and Legume Products,1104766
+"Flour, rice, brown",Cereal Grains and Pasta,1104812
+"Flour, rice, glutinous",Cereal Grains and Pasta,1104867
+"Flour, pastry, unenriched, unbleached",Cereal Grains and Pasta,1104913
+"Onions, white, raw",Vegetables and Vegetable Products,1104962
+"Bananas, overripe, raw",Fruits and Fruit Juices,1105073
+"Bananas, ripe and slightly ripe, raw",Fruits and Fruit Juices,1105314
+"Apples, red delicious, with skin, raw",Fruits and Fruit Juices,1750339
+"Apples, fuji, with skin, raw",Fruits and Fruit Juices,1750340
+"Apples, gala, with skin, raw",Fruits and Fruit Juices,1750341
+"Apples, granny smith, with skin, raw",Fruits and Fruit Juices,1750342
+"Apples, honeycrisp, with skin, raw",Fruits and Fruit Juices,1750343
+"Oil, peanut",Fats and Oils,1750348
+"Oil, sunflower",Fats and Oils,1750349
+"Oil, safflower",Fats and Oils,1750350
+"Oil, olive, extra light",Fats and Oils,1750351
+"Mushroom, lion's mane",Vegetables and Vegetable Products,1999626
+"Mushroom, oyster",Vegetables and Vegetable Products,1999627
+"Mushrooms, shiitake",Vegetables and Vegetable Products,1999628
+"Mushrooms, white button",Vegetables and Vegetable Products,1999629
+"Soy milk, unsweetened, plain, shelf stable",Legumes and Legume Products,1999630
+"Almond milk, unsweetened, plain, shelf stable",Beverages,1999631
+"Spinach, baby",Vegetables and Vegetable Products,1999632
+"Spinach, mature",Vegetables and Vegetable Products,1999633
+"Tomato, roma",Vegetables and Vegetable Products,1999634
+"Flour, 00",Cereal Grains and Pasta,2003586
+"Flour, spelt, whole grain",Cereal Grains and Pasta,2003587
+"Flour, semolina, coarse and semi-coarse",Cereal Grains and Pasta,2003588
+"Flour, semolina, fine",Cereal Grains and Pasta,2003589
+"Apple juice, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,2003590
+"Orange juice, no pulp, not fortified, from concentrate, refrigerated",Fruits and Fruit Juices,2003591
+"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,2003592
+"Grape juice, white, with added vitamin C, from concentrate, shelf stable",Fruits and Fruit Juices,2003593
+"Cranberry juice, not fortified, from concentrate, shelf stable",Fruits and Fruit Juices,2003594
+"Grapefruit juice, red, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,2003595
+"Tomato juice, with added ingredients, from concentrate, shelf stable",Vegetables and Vegetable Products,2003596
+"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",Fruits and Fruit Juices,2003597
+"Mushroom, portabella",Vegetables and Vegetable Products,2003598
+"Mushroom, king oyster",Vegetables and Vegetable Products,2003599
+"Mushroom, enoki",Vegetables and Vegetable Products,2003600
+"Mushroom, crimini",Vegetables and Vegetable Products,2003601
+"Mushroom, maitake",Vegetables and Vegetable Products,2003602
+"Mushroom, beech",Vegetables and Vegetable Products,2003603
+"Mushroom, pioppini",Vegetables and Vegetable Products,2003604
+"Soy milk, sweetened, plain, refrigerated",Legumes and Legume Products,2257044
+"Almond milk, unsweetened, plain, refrigerated",Beverages,2257045
+"Oat milk, unsweetened, plain, refrigerated",Beverages,2257046
+"Carrots, mature, raw",Vegetables and Vegetable Products,2258586
+"Carrots, baby, raw",Vegetables and Vegetable Products,2258587
+"Peppers, bell, green, raw",Vegetables and Vegetable Products,2258588
+"Peppers, bell, yellow, raw",Vegetables and Vegetable Products,2258589
+"Peppers, bell, red, raw",Vegetables and Vegetable Products,2258590
+"Peppers, bell, orange, raw",Vegetables and Vegetable Products,2258591
+"Buttermilk, low fat",Dairy and Egg Products,2259792
+"Yogurt, plain, whole milk",Dairy and Egg Products,2259793
+"Yogurt, Greek, plain, whole milk",Dairy and Egg Products,2259794
+"Cheese, parmesan, grated, refrigerated",Dairy and Egg Products,2259795
+"Cheese, feta, whole milk, crumbled",Dairy and Egg Products,2259796
+"Flour, almond",Nut and Seed Products,2261420
+"Flour, oat, whole grain",Cereal Grains and Pasta,2261421
+"Flour, potato",Vegetables and Vegetable Products,2261422
+"Peanut butter, creamy",Legumes and Legume Products,2262072
+"Sesame butter, creamy",Nut and Seed Products,2262073
+"Almond butter, creamy",Nut and Seed Products,2262074
+"Flaxseed, ground",Nut and Seed Products,2262075
+"Cottage cheese, full fat, large or small curd",Dairy and Egg Products,2346384
+"Cream cheese, full fat, block",Dairy and Egg Products,2346385
+"Cream, heavy",Dairy and Egg Products,2346386
+"Cream, sour, full fat",Dairy and Egg Products,2346387
+"Lettuce, iceberg, raw",Vegetables and Vegetable Products,2346388
+"Lettuce, romaine, green, raw",Vegetables and Vegetable Products,2346389
+"Lettuce, leaf, red, raw",Vegetables and Vegetable Products,2346390
+"Lettuce, leaf, green, raw",Vegetables and Vegetable Products,2346391
+"Nuts, pine nuts, raw",Nut and Seed Products,2346392
+"Nuts, almonds, whole, raw",Nut and Seed Products,2346393
+"Nuts, walnuts, English, halves, raw",Nut and Seed Products,2346394
+"Nuts, pecans, halves, raw",Nut and Seed Products,2346395
+"Oats, whole grain, rolled, old fashioned",Cereal Grains and Pasta,2346396
+"Oats, whole grain, steel cut",Cereal Grains and Pasta,2346397
+"Pineapple, raw",Fruits and Fruit Juices,2346398
+"Cherries, sweet, dark red, raw",Fruits and Fruit Juices,2346399
+"Beans, snap, green, raw",Vegetables and Vegetable Products,2346400
+"Potatoes, russet, without skin, raw",Vegetables and Vegetable Products,2346401
+"Potatoes, red, without skin, raw",Vegetables and Vegetable Products,2346402
+"Potatoes, gold, without skin, raw",Vegetables and Vegetable Products,2346403
+"Sweet potatoes, orange flesh, without skin, raw",Vegetables and Vegetable Products,2346404
+"Celery, raw",Vegetables and Vegetable Products,2346405
+"Cucumber, with peel, raw",Vegetables and Vegetable Products,2346406
+"Cabbage, green, raw",Vegetables and Vegetable Products,2346407
+"Cabbage, red, raw",Vegetables and Vegetable Products,2346408
+"Strawberries, raw",Fruits and Fruit Juices,2346409
+"Raspberries, raw",Fruits and Fruit Juices,2346410
+"Blueberries, raw",Fruits and Fruit Juices,2346411
+"Grapes, red, seedless, raw",Fruits and Fruit Juices,2346412
+"Grapes, green, seedless, raw",Fruits and Fruit Juices,2346413
+"Applesauce, unsweetened, with added vitamin C",Fruits and Fruit Juices,2346414
+"Flour, amaranth",Cereal Grains and Pasta,2512371
+"Flour, quinoa",Cereal Grains and Pasta,2512372
+"Flour, sorghum",Cereal Grains and Pasta,2512373
+"Flour, buckwheat",Cereal Grains and Pasta,2512374
+"Flour, rye",Cereal Grains and Pasta,2512375
+"Flour, barley",Cereal Grains and Pasta,2512376
+"Flour, cassava",Vegetables and Vegetable Products,2512377
+"Buckwheat, whole grain",Cereal Grains and Pasta,2512378
+"Millet, whole grain",Cereal Grains and Pasta,2512379
+"Rice, brown, long grain, unenriched, raw",Cereal Grains and Pasta,2512380
+"Rice, white, long grain, unenriched, raw",Cereal Grains and Pasta,2512381
+"Beef, ground, 90% lean meat / 10% fat, raw",Beef Products,2514743
+"Beef, ground, 80% lean meat / 20% fat, raw",Beef Products,2514744
+"Pork, ground, raw",Pork Products,2514745
+"Chicken, ground, with additives, raw",Poultry Products,2514746
+"Turkey, ground, 93% lean/ 7% fat, raw",Poultry Products,2514747
+"Nuts, brazilnuts, raw",Nut and Seed Products,2515373
+"Nuts, cashew nuts, raw",Nut and Seed Products,2515374
+"Nuts, hazelnuts or filberts, raw",Nut and Seed Products,2515375
+"Peanuts, raw",Legumes and Legume Products,2515376
+"Flour, chestnut",Nut and Seed Products,2515377
+"Nuts, macadamia nuts, raw",Nut and Seed Products,2515378
+"Nuts, pistachio nuts, raw",Nut and Seed Products,2515379
+"Seeds, pumpkin seeds (pepitas), raw",Nut and Seed Products,2515380
+"Seeds, sunflower seed, kernel, raw",Nut and Seed Products,2515381
+"Flour, coconut",Nut and Seed Products,2515382
+"Beans, cannellini, dry",Legumes and Legume Products,2644281
+"Chickpeas, (garbanzo beans, bengal gram), dry",Legumes and Legume Products,2644282
+"Lentils, dry",Legumes and Legume Products,2644283
+"Blackeye pea, dry",Legumes and Legume Products,2644284
+"Beans, black, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644285
+"Beans, navy, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644286
+"Beans, cannellini, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644287
+"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",Legumes and Legume Products,2644288
+"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,2644289
+"Beans, kidney, light red, canned, sodium added, sugar added, drained and rinsed",Legumes and Legume Products,2644290
+"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",Vegetables and Vegetable Products,2644291
+"Beans, pinto, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644292
+"Blackeye pea, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644293
+"Beans, great northern, canned, sodium added, drained and rinsed",Legumes and Legume Products,2644294
+"Pork, loin, boneless, raw",Pork Products,2646168
+"Pork, loin, tenderloin, boneless, raw",Pork Products,2646169
+"Chicken, breast, boneless, skinless, raw",Poultry Products,2646170
+"Chicken, thigh, boneless, skinless, raw",Poultry Products,2646171
+"Beef, ribeye, steak, boneless, choice, raw",Beef Products,2646172
+"Beef, round, top round, boneless, choice, raw",Beef Products,2646173
+"Beef, chuck, roast, boneless, choice, raw",Beef Products,2646174
+"Beef, flank, steak, boneless, choice, raw",Beef Products,2646175
+"Yogurt, plain, nonfat",Dairy and Egg Products,2647437
+"Cheese, monterey jack, solid",Dairy and Egg Products,2647438
+"Cheese, pasteurized process cheese food or product, American, singles",Dairy and Egg Products,2647439
+"Cheese, provolone, sliced",Dairy and Egg Products,2647440
+"Cheese, oaxaca, solid",Dairy and Egg Products,2647441
+"Cheese, queso fresco, solid",Dairy and Egg Products,2647442
+"Cheese, cotija, solid",Dairy and Egg Products,2647443
